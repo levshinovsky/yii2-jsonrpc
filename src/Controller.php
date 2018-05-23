@@ -1,6 +1,6 @@
 <?php
 
-namespace georgique\yii2\jsonrpc;
+namespace levshinovsky\jsonrpc;
 
 use Yii;
 use yii\filters\ContentNegotiator;
