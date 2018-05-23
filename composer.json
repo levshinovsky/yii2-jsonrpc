@@ -11,7 +11,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "georgique\\yii2\\jsonrpc\\": ""
+      "levshinovsky\\jsonrpc\\": "src"
     }
   }
 }
